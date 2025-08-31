@@ -1,4 +1,4 @@
-basic python coding projects
+basic python coding projects that I did in ecs32a :))
 
 
 temp.py data csvs:
