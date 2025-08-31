@@ -105,7 +105,6 @@ for index in range(k,len(temp_list)-k):
     # Printing out moving average
     print(f"{year},{ave:.4f}")
 
-
 # moving_ave_csv.py
 # Crystal Chang 
 #
